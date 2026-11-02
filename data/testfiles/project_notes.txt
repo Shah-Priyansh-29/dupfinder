@@ -1,0 +1,7 @@
+Linux Project L43: Duplicate File Finder
+Features to verify:
+1. md5sum checksum calculation
+2. Duplicate grouping via sort and uniq -w 32
+3. Safe relocation to _duplicates/
+4. du storage savings calculation
+5. Undo rollback

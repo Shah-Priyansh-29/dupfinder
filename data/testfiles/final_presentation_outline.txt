@@ -1,0 +1,6 @@
+Presentation Outline - Sem 5 Linux Project
+1. Problem statement & real-world storage challenges
+2. Checksum hashing theory (MD5 vs SHA256)
+3. Filter pipeline: find -> md5sum -> sort -> uniq -w 32
+4. Non-destructive duplicate relocation
+5. Verification of du storage reclaim & cron automation

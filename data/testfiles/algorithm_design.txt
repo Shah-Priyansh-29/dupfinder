@@ -1,0 +1,6 @@
+Algorithm Design Notes:
+Time Complexity of Duplicate Finder:
+1. md5sum: O(N * M) where N = number of files, M = avg file size
+2. sort: O(N log N) comparison sort on 32-character hashes
+3. uniq -w 32: O(N) linear scan over sorted hashes
+Total Time Complexity: O(N*M + N log N)

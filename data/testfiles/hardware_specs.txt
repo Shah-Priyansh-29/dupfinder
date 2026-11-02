@@ -1,0 +1,5 @@
+HARDWARE CONFIGURATION
+Processor: Intel Core i7 12th Gen / 16 Virtual Cores
+RAM: 16 GB DDR4 @ 3200 MHz
+Storage: 512 GB NVMe SSD
+OS: Ubuntu 22.04 LTS (WSL2)

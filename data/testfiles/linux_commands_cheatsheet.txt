@@ -1,0 +1,6 @@
+LINUX CHEATSHEET
+- md5sum <file>       : Generate 32-hex MD5 digest
+- sort -k1,1          : Sort text by first column
+- uniq -w 32 -d       : Show duplicate lines by first 32 characters
+- du -sh <folder>     : Show disk usage in human format
+- tar -czf <out> <in> : Create gzipped tarball archive

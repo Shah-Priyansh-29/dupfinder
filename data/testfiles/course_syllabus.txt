@@ -1,0 +1,5 @@
+Course Syllabus: Linux Systems Programming
+Unit 1: Bash Scripting, Shell Variables, Control Structures
+Unit 2: Text Filters: grep, sed, awk, cut, sort, uniq
+Unit 3: File Management, Permissions, Inodes, du, df
+Unit 4: Process Management, Signals, Crontab Automation
